@@ -1,0 +1,5 @@
+timestamp,section_id,traffic_density_veh_km,space_mean_speed_kmh,risk_factor_index,irc_compliance
+2026-03-10 09:00,SEC_A1,35,57.12,Low,Compliant
+2026-03-10 13:00,SEC_A1,42,52.30,Low,Compliant
+2026-03-10 18:00,SEC_A1,88,21.50,High,Non-Compliant
+2026-03-11 08:30,SEC_B4,55,43.80,Medium,Compliant
